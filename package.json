@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Ice Calee",
   "license": "ISC",
-  "homepage": "https://alive2020.github.io/YelpCamp_BootcampProject",
+  "homepage": "https://alive2020.github.io/yelpcamp",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.11.0",
     "cloudinary": "^1.23.0",
