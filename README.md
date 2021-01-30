@@ -47,4 +47,4 @@ Create a .env file (or just export manually in the terminal) in the root of the 
  ___
 
 Run mongod in another terminal and node app.js in the terminal with the project.
-Then go to localhost:3000.
+Then go to `localhost:3000`.
