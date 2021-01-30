@@ -18,9 +18,9 @@ Users can review campgrounds, edit or remove their review
 
 ## To run the app on your localhost, follow the following steps:
 
-Install mongodb
-Create a cloudinary account to get an API key and secret code
-Create a mapbox account to get API access token
+- Install mongodb
+- Create a cloudinary account to get an API key and secret code
+- Create a mapbox account to get API access token
 
 git clone https://github.com/alive2020/YelpCamp_BootcampProject.git
 cd YelpCamp_BootcampProject
@@ -29,15 +29,11 @@ Create a .env file (or just export manually in the terminal) in the root of the 
 
  `CLOUDINARY_CLOUD_NAME='<name>'`
  
- 
  `CLOUDINARY_KEY='<key>'`
- 
  
  `CLOUDINARY_KEY_SECRET='<secret>'`
  
- 
  `MAPBOX_TOKEN= '<token>'`
- 
  
  `DB_URL='<url>'`
 
