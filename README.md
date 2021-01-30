@@ -1,5 +1,5 @@
 ## YelpCamp_BootcampProject
-https://guarded-spire-08903.herokuapp.com/
+[See the project live](https://guarded-spire-08903.herokuapp.com/) 
 
 YelpCamp is a website where users can create and review campgrounds. 
 In order to review or create a campground, you must be logged in. 
