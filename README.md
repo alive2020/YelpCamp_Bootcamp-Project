@@ -15,9 +15,9 @@ ___
 
 ___
 ### Features
-⋅⋅⋅Users can create, edit, and remove campgrounds
+*Users can create, edit, and remove campgrounds
 
-⋅⋅⋅Users can review campgrounds, edit or remove their review
+*Users can review campgrounds, edit or remove their review
 
 ___
 ### To run the app on your localhost, follow the following steps:
