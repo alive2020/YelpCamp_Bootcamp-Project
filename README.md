@@ -27,11 +27,11 @@ cd YelpCamp_BootcampProject
 npm install
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
 
-CLOUDINARY_CLOUD_NAME='<name>'
-CLOUDINARY_KEY='<key>'
-CLOUDINARY_KEY_SECRET='<secret>'
-MAPBOX_TOKEN= '<token>'
-DB_URL='<url>'
+... `CLOUDINARY_CLOUD_NAME='<name>'`
+... `CLOUDINARY_KEY='<key>'`
+... `CLOUDINARY_KEY_SECRET='<secret>'`
+... `MAPBOX_TOKEN= '<token>'`
+... `DB_URL='<url>'`
 
 Run mongod in another terminal and node app.js in the terminal with the project.
 Then go to localhost:3000.
