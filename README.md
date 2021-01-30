@@ -4,11 +4,13 @@ https://guarded-spire-08903.herokuapp.com/
 YelpCamp is a website where users can create and review campgrounds. 
 In order to review or create a campground, you must be logged in. 
 This project was part of Colt Steele's web dev course on udemy.
-
+___
 ## YelpCamp project was created using 
-Node.js, Uses EJS template engine over Express.js, MongoDB,Bootstrap and Cloudinary, Mapbox. 
-Passport.js was used to handle authentication.
-Deployed on Heroku!
+* Node.js, uses EJS template engine over Express.js, 
+* MongoDB, 
+* Passport.js was used to handle authentication,
+* Bootstrap and Cloudinary, Mapbox. 
+* Deployed on Heroku.
 
 ## Features
 Users can create, edit, and remove campgrounds
